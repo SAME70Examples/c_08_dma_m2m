@@ -3,7 +3,7 @@
  * Auto generated Run-Time-Environment Component Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'c_07_usart_dma' 
+ * Project: 'c_08_dma_m2m' 
  * Target:  'Target 1' 
  */
 
