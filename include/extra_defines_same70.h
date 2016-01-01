@@ -9,5 +9,6 @@
 #define PMC_PCR_PID_USART0 (13)
 #define PMC_PCR_PID_USART1 (14)
 #define PMC_PCR_PID_USART2 (15)
+#define PMC_PCR_PID_XDMAC (58)
 
 #endif// _EXTRA_DEFINES_SAME70_H

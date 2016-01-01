@@ -448,6 +448,11 @@
               <FileType>1</FileType>
               <FilePath>..\source\safe_stdlib.c</FilePath>
             </File>
+            <File>
+              <FileName>dma_same70.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\source\dma_same70.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
