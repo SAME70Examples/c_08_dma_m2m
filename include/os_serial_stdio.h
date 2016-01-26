@@ -8,6 +8,6 @@
 void os_serial_init(void);
 
 void os_serial_printf(void (*p_puts)(const char *), const char * format, ...)
-	__attribute__ ((format (printf, 2, 3)));
+    __attribute__ ((format (printf, 2, 3)));
 
 #endif// _OS_SERIAL_STDIO_H

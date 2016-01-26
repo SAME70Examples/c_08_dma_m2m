@@ -8,6 +8,6 @@
 void serial_puts(void (*p_getc)(char), const char * pString);
 
 void serial_printf(void (*p_puts)(const char *), const char * format, ...)
-	__attribute__ ((format (printf, 2, 3)));
+    __attribute__ ((format (printf, 2, 3)));
 
 #endif
