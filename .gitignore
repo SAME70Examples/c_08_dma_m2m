@@ -12,3 +12,4 @@ tests/gmock_test
 
 *.swp
 *.[oa]
+nbproject
