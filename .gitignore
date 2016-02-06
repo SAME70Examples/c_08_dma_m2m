@@ -1,6 +1,8 @@
 /gcc/nbproject
 /gcc/objects
 /gcc/*.elf
+/gcc/.d/*
+/gcc/bin/*
 /mdk/*
 tests/gmock_test
 
